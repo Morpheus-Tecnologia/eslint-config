@@ -1,1 +1,1 @@
-# eslint-config-morpheustecnologia
+# eslint-config-morpheus
